@@ -141,7 +141,10 @@ id sem consectetuer libero luctus adipiscing.
 
 
 ### Горизонтальная черта
-Fvds
+`hr` создается тремя звездочками или тремя дефисами.
+
+***
+---
 
 
 
